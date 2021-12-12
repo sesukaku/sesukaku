@@ -6,6 +6,9 @@ tasks:
 vscode:
   extensions:
     - ms-azuretools.vscode-docker
+    - editorconfig.editorconfig
+    - github.github-vscode-theme
+    - davidanson.vscode-markdownlint
 
 github:
   prebuilds:
